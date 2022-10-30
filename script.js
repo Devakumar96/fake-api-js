@@ -23,4 +23,4 @@ fetch('https://fakestoreapi.com/products').then((data)=>{
 
 }).catch((err)=>{
     console.log(err);
-})
+});
